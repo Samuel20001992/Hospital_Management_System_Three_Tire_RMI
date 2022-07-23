@@ -1,0 +1,5 @@
+Button{
+    -fx-border-radius: 3;
+    -fx-background-color: blue;
+    -fx-text-fill: white;
+}
